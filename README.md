@@ -1,16 +1,40 @@
-## Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/YOUR-ID-HERE" width="150" style="border-radius: 50%;" alt="Avatar de Pablo Felipe">
 
-<!--
-**Pablu212/Pablu212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o Pablo Felipe
 
-Here are some ideas to get you started:
+🎓 Estudante apaixonado por tecnologia e programação, sonhando alto para me tornar um **desenvolvedor de verdade**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente estou aprendendo e praticando:
+
+- 🟨 Java
+- 🐍 Python
+- 🌐 HTML, CSS e JavaScript
+
+Sempre buscando melhorar, criar coisas legais e compartilhar conhecimento pelo caminho.
+
+---
+
+## 🚀 Um pouco mais sobre mim
+
+- 📚 Curioso por natureza, sempre explorando novas linguagens e ferramentas
+- 🎮 Fã de jogos, música e tudo que envolve criatividade digital
+- ✨ Acredito que tecnologia pode transformar vidas — começando pela minha!
+
+---
+
+## 🌍 Onde me encontrar
+
+- 📧 **Gmail**: [seuemail@gmail.com]
+- 💼 **LinkedIn**: www.linkedin.com/in/pablo-felipe-b91513367
+- 📸 **Instagram**: [@seu_usuario](https://instagram.com/seu_usuario)
+
+---
+
+## ⚡ Curiosidade
+
+> “Código é poesia, bugs são os vilões e eu tô aqui pra virar o herói dessa história.”
+
+---
+
+💬 Me chama pra conversar, trocar ideias, ou até colaborar em algum projeto!
+
