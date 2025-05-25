@@ -1,40 +1,48 @@
-<img src="https://github.com/pablofelipe.png" width="150" style="border-radius: 50%;" alt="Avatar de Pablo Felipe">
+# ✨ Pablo Felipe na área! 👨‍💻
 
-# 👋 Olá! Eu sou o Pablo Felipe
+Oi! Eu sou o Pablo — estudante, futuro dev e curioso profissional.  
+Atualmente estou explorando o universo da programação, e já tô me aventurando com:
 
-🎓 Estudante apaixonado por tecnologia e programação, sonhando alto para me tornar um **desenvolvedor de verdade**.
-
-💻 Atualmente estou aprendendo e praticando:
-
-- 🟨 Java
-- 🐍 Python
-- 🌐 HTML, CSS e JavaScript
-
-Sempre buscando melhorar, criar coisas legais e compartilhar conhecimento pelo caminho.
+🧠 **Java** – Porque gosto de pensar como uma máquina.  
+🐍 **Python** – Simples, elegante e cheio de possibilidades.  
+🌐 **HTML, CSS, JavaScript** – A tríade sagrada da web.  
 
 ---
 
-## 🚀 Um pouco mais sobre mim
+## 🚀 Em missão para virar DEV
 
-- 📚 Curioso por natureza, sempre explorando novas linguagens e ferramentas
-- 🎮 Fã de jogos, música e tudo que envolve criatividade digital
-- ✨ Acredito que tecnologia pode transformar vidas — começando pela minha!
-
----
-
-## 🌍 Onde me encontrar
-
-- 📧 **Gmail**: [seuemail@gmail.com]
-- 💼 **LinkedIn**: www.linkedin.com/in/pablo-felipe-b91513367
-- 📸 **Instagram**: [@seu_usuario](https://instagram.com/seu_usuario)
+Meu objetivo? Dominar códigos, resolver problemas e criar coisas incríveis!  
+Não tô aqui só pra aprender… tô aqui pra **construir**, **errar**, **acertar** e me **divertir no processo**.
 
 ---
 
-## ⚡ Curiosidade
+## 🔧 Ferramentas em construção:
 
-> “Código é poesia, bugs são os vilões e eu tô aqui pra virar o herói dessa história.”
+- Pensamento lógico: 68%
+- Paciência com bugs: 43%
+- Café ingerido por semana: 1 litro (por enquanto)
+- Vontade de aprender: 💯%
 
 ---
 
-💬 Me chama pra conversar, trocar ideias, ou até colaborar em algum projeto!
+## 🌎 Onde me encontrar por aí:
+
+- 📧 **Gmail**: [seuemail@gmail.com]  
+- 💼 **LinkedIn**: www.linkedin.com/in/pablo-felipe-b91513367  
+- 📸 **Instagram**: [@seu_usuario](https://instagram.com/seu_usuario)  
+
+(Dica: se me mandar um "oi", respondo com emoji e boa vontade 😄)
+
+---
+
+## 🧠 Motto da vez:
+
+> “Aprender devagar é melhor do que nunca tentar. Cada linha de código é um passo pra frente!”
+
+---
+
+## 💡 Curtiu? Bora trocar ideia!
+
+Se quiser bater papo, sugerir projeto, mandar dica ou meme de programador — só chamar.  
+A jornada é longa, mas com café, código e gente boa, tudo fica mais fácil. ☕🚀
 
