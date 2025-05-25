@@ -27,9 +27,9 @@ Não tô aqui só pra aprender… tô aqui pra **construir**, **errar**, **acert
 
 ## 🌎 Onde me encontrar por aí:
 
-- 📧 **Gmail**: [seuemail@gmail.com]  
+- 📧 **Gmail**: pablofelipe60@hotmail.com.br  
 - 💼 **LinkedIn**: www.linkedin.com/in/pablo-felipe-b91513367  
-- 📸 **Instagram**: [@seu_usuario](https://instagram.com/seu_usuario)  
+- 📸 **Instagram**: https://www.instagram.com/pablo_felps/ 
 
 (Dica: se me mandar um "oi", respondo com emoji e boa vontade 😄)
 
