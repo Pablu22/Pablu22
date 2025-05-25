@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/YOUR-ID-HERE" width="150" style="border-radius: 50%;" alt="Avatar de Pablo Felipe">
+<img src="https://github.com/pablofelipe.png" width="150" style="border-radius: 50%;" alt="Avatar de Pablo Felipe">
 
 # 👋 Olá! Eu sou o Pablo Felipe
 
