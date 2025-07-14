@@ -18,6 +18,6 @@ Não tô aqui só pra aprender… tô aqui pra **construir** e **acertar**.
 
 ##  Minhas NetWorks:
 
-- 📧 **Gmail**: pablofelipe60@hotmail.com.br  
+- 📧 **Gmail**: pablofelip60@gmail.com  
 - 💼 **LinkedIn**: www.linkedin.com/in/pablo-felipe-b91513367  
 - 📸 **Instagram**: https://www.instagram.com/pablo_felps/ 
